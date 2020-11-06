@@ -1,15 +1,14 @@
 ### Date created
-Include the date you created this project and README file.
+November 2020
 
 ### Project Title
-Replace the Project Title
+Python project II.
 
 ### Description
-Describe what your project is about and what it does
+Second project from Udacity course "Programming for data science". It is a python file that calls information from .csv files. Generates metrics and statistics from data. In order to make the user understand valuable information.
 
 ### Files used
-Include the files used
+chicago csv / new york city csv / washington  
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+I give credits to StakOverflow and Udacity. Thanks! Who the hell in this world will read this readme XD!
