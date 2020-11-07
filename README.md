@@ -8,7 +8,7 @@ Python project II.
 Second project from Udacity course "Programming for data science". It is a python file that calls information from .csv files. Generates metrics and statistics from data. In order to make the user understand valuable information.
 
 ### Files used
-chicago csv / new york city csv / washington  
+chicago csv / new  york city csv / washington  
 
 ### Credits
 I give credits to StakOverflow and Udacity. Thanks! Who the hell in this world will read this readme XD!
